@@ -1,0 +1,12 @@
+есть увсловно две таблица Product и Categories
+Связь между этими таблицами условно реализована через промежуточную таблицу ProductCategorie 
+
+SQL запрос: 
+
+SELECT p.ProductName, c.CategoryName
+FROM Products p
+LEFT JOIN ProductCategories pc ON p.ProductID = pc.ProductID
+LEFT JOIN Categories c ON pc.CategoryID = c.CategoryID
+ORDER BY p.ProductName, c.CategoryName;
+
+уверен в правильности на 1%(а то и меньше)

@@ -1,0 +1,36 @@
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\bin\Debug\net8.0\libtest.exe
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\bin\Debug\net8.0\libtest.deps.json
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\bin\Debug\net8.0\libtest.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\bin\Debug\net8.0\libtest.dll
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\bin\Debug\net8.0\libtest.pdb
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\obj\Debug\net8.0\libtest.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\obj\Debug\net8.0\libtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\obj\Debug\net8.0\libtest.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\obj\Debug\net8.0\libtest.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\obj\Debug\net8.0\libtest.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\obj\Debug\net8.0\libtest.csproj.CopyComplete
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\obj\Debug\net8.0\libtest.dll
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\obj\Debug\net8.0\refint\libtest.dll
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\obj\Debug\net8.0\libtest.pdb
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\obj\Debug\net8.0\libtest.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\obj\Debug\net8.0\ref\libtest.dll
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\bin\Debug\net8.0\ShapeLibrary.dll
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\libtest\bin\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\bin\Debug\net8.0\libtest.exe
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\bin\Debug\net8.0\libtest.deps.json
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\bin\Debug\net8.0\libtest.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\bin\Debug\net8.0\libtest.dll
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\bin\Debug\net8.0\libtest.pdb
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\bin\Debug\net8.0\ShapeLibrary.dll
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\bin\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\obj\Debug\net8.0\libtest.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\obj\Debug\net8.0\libtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\obj\Debug\net8.0\libtest.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\obj\Debug\net8.0\libtest.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\obj\Debug\net8.0\libtest.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\obj\Debug\net8.0\libtest.csproj.CopyComplete
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\obj\Debug\net8.0\libtest.dll
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\obj\Debug\net8.0\refint\libtest.dll
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\obj\Debug\net8.0\libtest.pdb
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\obj\Debug\net8.0\libtest.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\libtest\obj\Debug\net8.0\ref\libtest.dll

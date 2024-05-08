@@ -1,0 +1,22 @@
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\ClassLibraryTest\bin\Debug\net8.0\ShapeLibrary.deps.json
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\ClassLibraryTest\bin\Debug\net8.0\ShapeLibrary.dll
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\ClassLibraryTest\bin\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.dll
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\ClassLibraryTest\obj\Debug\net8.0\refint\ShapeLibrary.dll
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\user\OneDrive\Рабочий стол\прикольчики для C#\ClassLibraryTest\obj\Debug\net8.0\ref\ShapeLibrary.dll
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\ClassLibraryTest\bin\Debug\net8.0\ShapeLibrary.deps.json
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\ClassLibraryTest\bin\Debug\net8.0\ShapeLibrary.dll
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\ClassLibraryTest\bin\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.dll
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\ClassLibraryTest\obj\Debug\net8.0\refint\ShapeLibrary.dll
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\ClassLibraryTest\obj\Debug\net8.0\ShapeLibrary.pdb
+C:\Users\user\OneDrive\Рабочий стол\TestovoeZad\ClassLibraryTest\obj\Debug\net8.0\ref\ShapeLibrary.dll
